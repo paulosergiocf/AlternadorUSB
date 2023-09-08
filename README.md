@@ -16,7 +16,7 @@ Como um bonus adicionei a placa mais duas passagem usb que podem ser chaveadas t
 
 ![projeto](https://github.com/paulosergiocf/AlternadorUSB/assets/49497668/07d97ab2-d95a-44a5-8cd9-a93c1b362e42)
 
-[PROJETO PDF PRONTO PARA IMPRESSÃO - COM PROJETO LIMPO]()
+[PROJETO PDF PRONTO PARA IMPRESSÃO - COM PROJETO LIMPO](https://github.com/paulosergiocf/AlternadorUSB/blob/main/Projeto/Projeto%20Alternador%20USB.pdf)
 
 ## Que que isso faz?
 
@@ -29,12 +29,13 @@ Esse dispositivo recebe um dispositivo USB (no meu caso um hub com Mouse e tecla
 |:--|:--:|
 |2 Diodo schottky 1n5819|R$ 0,60|
 |1 Chave Alavanca Mts-202 Interruptor 6t Ld Dpdt 6a|R$ 1,50|
-|1 Lamina | R$ 5,00 |
+
+> **OBS**: Utilizei cabos usb's e fios velhos, por isso não tenho como mensurar o gasto.
 
 Claro os custos podem mudar se nmão tiver o material para a fabricação da PDB, neste caso você precisará de:
 
 - Placa De Fenolite Cobreado.
-- Caneta Permaente.
+- Caneta Permanente.
 - Percloreto de Ferro.
 - luvas de borracha.
 - Recipiente de plastico para fazer a mistura.
